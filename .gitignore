@@ -1,0 +1,18 @@
+# files
+*.iml
+.DS_Store
+local.properties
+.metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+untranslated_messages.txt
+
+# folders
+.cxx
+.externalNativeBuild
+.gradle
+.idea
+__pycache__
+build
+captures
+.dart_tool
